@@ -25,7 +25,7 @@ import (
 	"github.com/openshift/ansible-service-broker/pkg/config"
 	"github.com/openshift/ansible-service-broker/pkg/registries"
 	logutil "github.com/openshift/ansible-service-broker/pkg/util/logging"
-	"honnef.co/go/tools/version"
+	"github.com/openshift/ansible-service-broker/pkg/version"
 )
 
 // Command Line arguments that we can handle.
